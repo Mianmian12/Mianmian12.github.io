@@ -9,11 +9,10 @@ title: Mianmian12
 
 I am Mianmian12.
 
-<p>
-<img height=300px width=240px src=../theme/img/trip.jpg>
-<img height=200px width=300px src=../theme/img/running.jpg>
+![](../theme/img/running.jpg)
+![](../theme/img/trip.jpg)
 
-</p>
+
 
 [More about me.](https://mianmian12.github.io/about.html)
 
