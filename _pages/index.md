@@ -2,29 +2,18 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Mianmian12
 ---
 
-## What is it?
+## Hello 
 
-{% include components/intro.md %}
+I am Mianmian12.
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+<p>
+<img height=300px width=240px src=../theme/img/trip.jpg>
+<img height=200px width=300px src=../theme/img/running.jpg>
 
-## How to use it
+</p>
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
-
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
-
-<hr />
-
-### Recent Posts
-
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
-
+[More about me.](https://mianmian12.github.io/about.html)
 
