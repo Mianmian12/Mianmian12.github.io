@@ -9,8 +9,9 @@ title: Mianmian12
 
 I am Mianmian12.
 
-![](../theme/img/running.jpg)
-![](../theme/img/trip.jpg)
+<img src="../theme/img/running.jpg" style="zoom: 33%;" />
+
+<img src="../theme/img/trip.jpg" style="zoom:33%;" />
 
 
 
